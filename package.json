@@ -1,25 +1,28 @@
 {
-    "name": "topic-api",
-    "version": "1.1.1",
-    "description": "Main api wrapper for TopicList to post stats",
-    "main": "index.js",
-    "dependencies": {
-      "node-fetch": "^3.2.10"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-     "Topiclist",
-     "topic",
-     "Topic",
-     "DiscordList",
-     "topiclist.xyz",
-     "api",
-     "list"
-    ],
-    "author": "RanveerSoni",
-    "license": "Apache-2.0"
-  }
-  
+  "name": "topic-api",
+  "version": "1.0.0",
+  "description": "api for topiclist (https://topiclist.xyz)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TopicBotList/Topic-Wrapper.git"
+  },
+  "keywords": [
+    "Topiclist",
+    "topic",
+    "Topic",
+    "DiscordList",
+    "topiclist.xyz",
+    "api",
+    "list"
+  ],
+  "author": "RanveerSoni",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/TopicBotList/Topic-Wrapper/issues"
+  },
+  "homepage": "https://github.com/TopicBotList/Topic-Wrapper#readme"
+}
