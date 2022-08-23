@@ -1,8 +1,8 @@
 # Topic-Wrapper
 <a href="https://www.npmjs.com/package/topic-api/"><img src="https://img.shields.io/npm/v/topic-api.svg?maxAge=3600" alt="NPM version" /></a>
-<a href="https://www.npmjs.com/package/topic-api"><img src="https://img.shields.io/npm/dt/topic-api.svg?maxAge=3600" alt="NPM downloads" /></a
+<a href="https://www.npmjs.com/package/topic-api"><img src="https://img.shields.io/npm/dt/topic-api.svg?maxAge=3600" alt="NPM downloads" /></a>
 api wrapper for v3
-> Post Requests
+Post Requests
 ```js
 const TBL = require("topic-api"); // We import our api
 const stats = new TBL("Your BotID", "Your Bot Api token") // Add botID string, And Authorization token from the bot page
